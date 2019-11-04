@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtuesimerkki.StatisticsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-11-04T13:07:30" hostname="User1-PC" time="0.007">
+  <properties/>
+  <testcase name="returnCorrectTopScorer" classname="ohtuesimerkki.StatisticsTest" time="0.005"/>
+  <testcase name="returnPlayerIfTheyAreOnTheList" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="returnNullIfPlayerIsNotOnTheList" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="returnNumberOfPlayersInTeam" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
